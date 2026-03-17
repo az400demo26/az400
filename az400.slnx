@@ -1,3 +1,4 @@
 <Solution>
+  <Project Path="../az400testdemo/az400testdemo.csproj" Id="50e81270-1942-4577-8966-65181a0a20b6" />
   <Project Path="az400.csproj" />
 </Solution>
